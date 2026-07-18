@@ -1,0 +1,15 @@
+Data type:
+
+var
+dynamic
+
+Operator:
+
+Arithmetic op : +,-,*,/,%
+c=a+b
+
+shorthand op : +=,-=,*=,/=,%=
+a=a+b
+
+relational op: <,>,<=,>=,==,!=
+
