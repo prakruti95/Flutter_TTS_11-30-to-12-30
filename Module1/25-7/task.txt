@@ -1,0 +1,33 @@
+1.
+Write a Dart code checkDiscountEligibility that takes a user's age as input and prints
+'Eligible for student discount' if the age is less than 22, otherwise prints 'No discount available'.
+
+2.
+Build a Dart code called getDeliveryCharge that takes the order value as 
+input and uses if-else to apply a delivery charge: if the order is below 200, charge 50;
+ if between 200 and 500, charge 20; 
+if above 500, delivery is free. 
+Print the final delivery charge.
+
+3.
+Create a Dart code loginStatus that takes two strings: username and password. 
+If both match 'user123' and 'pass123', print 'Login Successful'; 
+if the username matches but password doesn't, print 'Incorrect password'; 
+otherwise, print 'User not found'
+Use nested if-else statements to check each condition.
+
+4.
+Write a Dart code called showRoleFeatures that takes a user role as 
+input ('admin', 'seller', or 'buyer') 
+anduses a switch statement to 
+print a different message for each role, like 'Admin: Access to all features', 
+'Seller: Can add products', 
+'Buyer: Can browse and purchase'.
+
+
+5.
+Use ChatGPT to generate a Dart code snippet that asks the user for their
+favorite food from a list ('Pizza', 'Burger', 'Dosa', 'Biryani'),
+then uses a switch-case to print a unique message for each food. 
+Paste the generated code into your Dart file and test it.
+Prompt ChatGPT with: 'Write a Dart function that takes a food name as input and prints a special message for each using switch-case.'
