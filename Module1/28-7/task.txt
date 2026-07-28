@@ -1,0 +1,5 @@
+W.A.P to print the reverse num of given number
+W.A.P to print the biggest digit from given number
+W.A.P to print the lowest digit from given number
+W.A.P to print the sum of  first and last digit from given number
+

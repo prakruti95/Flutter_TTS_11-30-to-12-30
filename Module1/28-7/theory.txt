@@ -1,0 +1,69 @@
+looping statements:
+
+Entry Control : for,while
+
+Exit Control : do while
+
+List Format :for in,for each
+
+syntax:
+1)
+for(initialization;condition;incre/decre)
+{
+	statements
+}
+
+2)
+initialization;
+while(condition)
+{
+	statemets
+	incre/decre
+}
+
+3)
+initialization;
+
+do
+{
+statemets
+incre/decre
+}
+while(condition);
+
+4)
+for(var data in data2)
+{
+	print();
+}
+
+5)
+data.forEach((value) => print(value));
+
+
+num = 1234->123
+sum=0;->4
+7421
+1)
+int rem = num%10 -> 1234%10 -> 4
+sum+=rem -> sum= sum+rem -> 0+4->4
+num=num/10-> 1234/10->123
+
+2)
+int rem = num%10 -> 123%10 -> 3
+sum+=rem -> sum=sum+rem -> 4+3->7
+num=num/10-> 123/10->12
+
+3)
+int rem = num%10 -> 12%10 -> 2
+sum+=rem -> sum=sum+rem -> 7+2->9
+num=num/10-> 12/10->1
+
+4)
+int rem = num%10 -> 1%10 -> 1
+sum+=rem -> sum=sum+rem -> 9+1->10
+num=num/10-> 1/10->0
+
+
+
+
