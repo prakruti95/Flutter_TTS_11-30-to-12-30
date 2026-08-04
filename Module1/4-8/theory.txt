@@ -1,0 +1,17 @@
+Function:When you want to reuse the code again and again
+
+
+Types of Functions:
+1)Inbuilt Function
+2)User-defined Function:
+  -> with para with return
+  -> with para without return
+  -> without para with return
+  -> without para without return
+
+Types of Parameters:
+1)optional parameter -> []
+2)named parameter -> {}
+3)default parameter -> [],{}
+
+
