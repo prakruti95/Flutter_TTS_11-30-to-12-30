@@ -1,0 +1,21 @@
+OOP Featurs:
+
+1)object -> Any Entity which has own state and behaviour
+ex: pen,paper etc..
+
+2)class -> collection of objects
+ex : human body
+
+3)abstraction -> Hiding internal details and showing functionalities
+ex: login page
+
+4)encapsulation -> Wrapping up of data or binding of data
+ex: capsule
+
+5)inheritance -> when one object acquire all the properties and 
+behaviour of parent class
+ex: father-son
+
+6)polymorphism -> many ways to perform anything
+ex: many ways
+
