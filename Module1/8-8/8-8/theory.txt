@@ -1,0 +1,26 @@
+Constructor:When Method having a same as a classname
+
+class Student
+{
+	
+	a()
+	{
+		
+	}
+	Student()
+	{
+	
+	}
+
+}
+
+-> constructor does not have a return type
+-> constructor calls automatically when object is created
+
+Types of Constructor
+
+1)Default Constructor
+2)Parameterized Constructor
+3)named constructor
+
+
