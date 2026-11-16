@@ -1,0 +1,19 @@
+Offline db
+
+Sqflite:
+
+-> with query
+-> without query
+
+insert into table (field name) values (?,?,?)
+db.insert(tablename,column)
+
+hive
+
+->
+create database
+create table
+insert
+view[select]
+update
+delete
